@@ -2,8 +2,8 @@
 
 Note|Description
 :----|:----
-Initial macOS Support|macOS 10.15, Catalina.
-Opencore version|0.8.3.
+OS Support|macOS 10.15 and latest.
+Opencore version|0.9.2.
 
 # Installtruction
 
